@@ -1,3 +1,7 @@
+import Data.Char
+import Data.List
+import Data.Maybe
+import Data.Map.Strict (Map, empty, insert, lookup, member)
 import Text.Parsec
 import Text.Parsec.String
 import Data.Map (Map)
